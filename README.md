@@ -1,4 +1,4 @@
-[<img src="https://arhaanb.co/img/readme.png" width="100%" />](https://arhaanb.co)
+[<img src="./arhaanb.png" width="100%" />](https://arhaanb.co)
 
 <!--
 ### Hi there 👋
