@@ -1,6 +1,7 @@
-[<img src="./arhaanb.png" width="100%" />](https://arhaanb.co)
+[<img src="./arhaanb.svg" width="100%" />](https://arhaanb.co)
 
 <!--
+[<img src="./arhaanb.png" width="100%" />](https://arhaanb.co)
 ### Hi there 👋
 
 <a href="https://arhaanb.co" target="_blank"><img  align="center" src="https://github-readme-stats.vercel.app/api?username=arhaanb&&show_icons=true&count_private=true&hide_border=true&hide_title=false&theme=prussian " alt="Arhaan's Github Stats"><a>
