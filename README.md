@@ -1,4 +1,4 @@
-[<img src="./arhaanb.svg" width="100%" />](https://arhaanb.co)
+[<img src="./arhaanb.svg" width="100%" />](https://arhaanbahadur.co)
 
 <!--
 [<img src="./arhaanb.png" width="100%" />](https://arhaanb.co)
