@@ -1,1 +1,1 @@
-[<img src="./grn.svg" width="100%" />](https://arhaanbahadur.co)
+[<img src="./new.svg" width="100%" />](https://arhaanb.com)
